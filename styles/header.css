@@ -7,7 +7,7 @@
     display: inline-block;
 }
 .cabeçalho{
-    background-color: blueviolet;
+    background-color: rgb(238, 49, 97);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -31,10 +31,10 @@
     background-color: azure;
 }
 .lista-menu__titulo{
-    color: aqua;
+    color: rgb(0, 255, 115);
 }
 .lista-menu__link{
-    background: black;
+    background: rgba(33, 211, 255, 0.466);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
