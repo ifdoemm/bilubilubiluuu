@@ -31,7 +31,7 @@
     background-color: azure;
 }
 .lista-menu__titulo{
-    color: rgb(0, 255, 115);
+    color: hwb(147 15% 18%);
 }
 .lista-menu__link{
     background: rgba(33, 211, 255, 0.466);
@@ -39,4 +39,7 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
     text-transform: uppercase;
+}
+.container__botao{
+    display: none;
 }
